@@ -1,0 +1,456 @@
+SaleId,SaleDate,CheckInDate,Price,ConceptName,SaleCityName,CInDay,SaleCheckInDayDiff,Seasons,Booking_Type,EB_Score,SaleCityName_encoded
+411164,2022-10-31 00:00:00.0000000,2022-11-02 00:00:00.0000000,101.34,Yarım Pansiyon,Girne,Wednesday,2,Low,Last Minuters,Last Minuters,3
+396792,2022-08-17 00:00:00.0000000,2022-08-19 00:00:00.0000000,136.75,Yarım Pansiyon,Girne,Friday,2,High,Last Minuters,Last Minuters,3
+395421,2022-08-12 00:00:00.0000000,2022-08-19 00:00:00.0000000,130.11,Yarım Pansiyon,Girne,Friday,7,High,Potential Planners,Potential Planners,3
+395212,2022-08-12 00:00:00.0000000,2022-08-17 00:00:00.0000000,183.15,Yarım Pansiyon,Girne,Wednesday,5,High,Last Minuters,Last Minuters,3
+393653,2022-08-08 00:00:00.0000000,2022-08-18 00:00:00.0000000,189.26,Yarım Pansiyon,Girne,Thursday,10,High,Potential Planners,Potential Planners,3
+393305,2022-08-06 00:00:00.0000000,2022-08-16 00:00:00.0000000,184.37,Yarım Pansiyon,Girne,Tuesday,10,High,Potential Planners,Potential Planners,3
+384789,2022-07-08 00:00:00.0000000,2022-07-10 00:00:00.0000000,63.49,Oda + Kahvaltı,Girne,Sunday,2,High,Last Minuters,Last Minuters,3
+384700,2022-07-08 00:00:00.0000000,2022-07-10 00:00:00.0000000,34.8,Oda + Kahvaltı,Girne,Sunday,2,High,Last Minuters,Last Minuters,3
+384699,2022-07-08 00:00:00.0000000,2022-07-10 00:00:00.0000000,63.49,Oda + Kahvaltı,Girne,Sunday,2,High,Last Minuters,Last Minuters,3
+234731,2019-09-20 00:00:00.0000000,2019-12-01 00:00:00.0000000,42.33,Yarım Pansiyon,Girne,Sunday,72,Low,Planners,Planners,3
+350839,2022-02-23 00:00:00.0000000,2022-03-26 00:00:00.0000000,50.67,Yarım Pansiyon,Girne,Saturday,31,Low,Planners,Planners,3
+350839,2022-02-23 00:00:00.0000000,2022-03-26 00:00:00.0000000,46.45,Yarım Pansiyon,Girne,Saturday,31,Low,Planners,Planners,3
+347552,2022-02-02 00:00:00.0000000,2022-02-03 00:00:00.0000000,27.47,Oda + Kahvaltı,Girne,Thursday,1,Low,Last Minuters,Last Minuters,3
+347552,2022-02-02 00:00:00.0000000,2022-02-03 00:00:00.0000000,13.74,Oda + Kahvaltı,Girne,Thursday,1,Low,Last Minuters,Last Minuters,3
+202796,2019-02-22 00:00:00.0000000,2019-07-01 00:00:00.0000000,98.36,Herşey Dahil,Girne,Monday,129,High,Early Bookers,Early Bookers,3
+51707,2016-01-02 00:00:00.0000000,2016-04-02 00:00:00.0000000,28.15,Oda + Kahvaltı,Girne,Saturday,91,Low,Early Bookers,Early Bookers,3
+187802,2018-09-20 00:00:00.0000000,2018-09-30 00:00:00.0000000,15.07,Oda + Kahvaltı,Girne,Sunday,10,High,Potential Planners,Potential Planners,3
+181639,2018-08-14 00:00:00.0000000,2018-09-30 00:00:00.0000000,13.8,Oda + Kahvaltı,Girne,Sunday,47,High,Planners,Planners,3
+181639,2018-08-14 00:00:00.0000000,2018-09-30 00:00:00.0000000,13.8,Oda + Kahvaltı,Girne,Sunday,47,High,Planners,Planners,3
+139273,2017-10-30 00:00:00.0000000,2017-11-23 00:00:00.0000000,32.88,Yarım Pansiyon,Girne,Thursday,24,Low,Potential Planners,Potential Planners,3
+269134,2020-08-04 00:00:00.0000000,2020-08-09 00:00:00.0000000,41.08,Yarım Pansiyon,Girne,Sunday,5,High,Last Minuters,Last Minuters,3
+224489,2019-07-19 00:00:00.0000000,2019-07-22 00:00:00.0000000,37.5,Yarım Pansiyon,Girne,Monday,3,High,Last Minuters,Last Minuters,3
+101042,2017-03-02 00:00:00.0000000,2017-06-16 00:00:00.0000000,97.72,Herşey Dahil,Girne,Friday,106,High,Early Bookers,Early Bookers,3
+53617,2016-01-27 00:00:00.0000000,2016-07-20 00:00:00.0000000,59.6,Herşey Dahil,Girne,Wednesday,175,High,Early Bookers,Early Bookers,3
+53605,2016-01-27 00:00:00.0000000,2016-07-20 00:00:00.0000000,59.6,Herşey Dahil,Girne,Wednesday,175,High,Early Bookers,Early Bookers,3
+252442,2020-02-13 00:00:00.0000000,2020-02-29 00:00:00.0000000,62.07,Herşey Dahil,Girne,Saturday,16,Low,Potential Planners,Potential Planners,3
+251096,2020-02-04 00:00:00.0000000,2020-02-22 00:00:00.0000000,26.96,Oda + Kahvaltı,Girne,Saturday,18,Low,Potential Planners,Potential Planners,3
+155990,2018-04-07 00:00:00.0000000,2018-04-30 00:00:00.0000000,51.05,Oda + Kahvaltı,Girne,Monday,23,Low,Potential Planners,Potential Planners,3
+134144,2017-09-05 00:00:00.0000000,2017-09-17 00:00:00.0000000,128.77,Herşey Dahil,Girne,Sunday,12,High,Potential Planners,Potential Planners,3
+106775,2017-04-18 00:00:00.0000000,2017-05-13 00:00:00.0000000,62.1,Oda + Kahvaltı,Girne,Saturday,25,High,Potential Planners,Potential Planners,3
+64211,2016-05-16 00:00:00.0000000,2016-06-06 00:00:00.0000000,66.23,Oda + Kahvaltı,Girne,Monday,21,High,Potential Planners,Potential Planners,3
+250861,2020-02-02 00:00:00.0000000,2020-02-17 00:00:00.0000000,26.96,Oda + Kahvaltı,Girne,Monday,15,Low,Potential Planners,Potential Planners,3
+250852,2020-02-02 00:00:00.0000000,2020-02-05 00:00:00.0000000,26.96,Oda + Kahvaltı,Girne,Wednesday,3,Low,Last Minuters,Last Minuters,3
+249016,2020-01-21 00:00:00.0000000,2020-01-26 00:00:00.0000000,60.29,Herşey Dahil,Girne,Sunday,5,Low,Last Minuters,Last Minuters,3
+249014,2020-01-21 00:00:00.0000000,2020-01-26 00:00:00.0000000,40.19,Herşey Dahil,Girne,Sunday,5,Low,Last Minuters,Last Minuters,3
+162501,2018-05-18 00:00:00.0000000,2018-05-22 00:00:00.0000000,24.7,Oda + Kahvaltı,Girne,Tuesday,4,High,Last Minuters,Last Minuters,3
+160516,2018-05-05 00:00:00.0000000,2018-05-12 00:00:00.0000000,39.52,Oda + Kahvaltı,Girne,Saturday,7,High,Potential Planners,Potential Planners,3
+152489,2018-03-16 00:00:00.0000000,2018-03-17 00:00:00.0000000,21.76,Oda + Kahvaltı,Girne,Saturday,1,Low,Last Minuters,Last Minuters,3
+152480,2018-03-16 00:00:00.0000000,2018-03-17 00:00:00.0000000,16.17,Oda + Kahvaltı,Girne,Saturday,1,Low,Last Minuters,Last Minuters,3
+146153,2018-01-22 00:00:00.0000000,2018-02-13 00:00:00.0000000,24.95,Oda + Kahvaltı,Girne,Tuesday,22,Low,Potential Planners,Potential Planners,3
+142748,2017-12-18 00:00:00.0000000,2017-12-26 00:00:00.0000000,47.05,Yarım Pansiyon,Girne,Tuesday,8,Low,Potential Planners,Potential Planners,3
+142748,2017-12-18 00:00:00.0000000,2017-12-26 00:00:00.0000000,47.05,Yarım Pansiyon,Girne,Tuesday,8,Low,Potential Planners,Potential Planners,3
+140680,2017-11-20 00:00:00.0000000,2017-12-04 00:00:00.0000000,38.42,Yarım Pansiyon,Girne,Monday,14,Low,Potential Planners,Potential Planners,3
+248675,2020-01-19 00:00:00.0000000,2020-02-09 00:00:00.0000000,60.29,Herşey Dahil,Girne,Sunday,21,Low,Potential Planners,Potential Planners,3
+155997,2018-04-07 00:00:00.0000000,2018-04-13 00:00:00.0000000,124.74,Herşey Dahil,Girne,Friday,6,Low,Last Minuters,Last Minuters,3
+169732,2018-06-26 00:00:00.0000000,2018-07-23 00:00:00.0000000,94.86,Herşey Dahil,Girne,Monday,27,High,Potential Planners,Potential Planners,3
+246321,2020-01-02 00:00:00.0000000,2020-01-17 00:00:00.0000000,37.66,Yarım Pansiyon,Girne,Friday,15,Low,Potential Planners,Potential Planners,3
+246318,2020-01-02 00:00:00.0000000,2020-01-17 00:00:00.0000000,37.66,Yarım Pansiyon,Girne,Friday,15,Low,Potential Planners,Potential Planners,3
+244257,2019-12-10 00:00:00.0000000,2019-12-13 00:00:00.0000000,37.1,Oda + Kahvaltı,Girne,Friday,3,Low,Last Minuters,Last Minuters,3
+238035,2019-10-21 00:00:00.0000000,2020-02-14 00:00:00.0000000,31.38,Oda + Kahvaltı,Girne,Friday,116,Low,Early Bookers,Early Bookers,3
+238035,2019-10-21 00:00:00.0000000,2020-02-14 00:00:00.0000000,31.38,Oda + Kahvaltı,Girne,Friday,116,Low,Early Bookers,Early Bookers,3
+243891,2019-12-07 00:00:00.0000000,2019-12-08 00:00:00.0000000,34.92,Oda + Kahvaltı,Girne,Sunday,1,Low,Last Minuters,Last Minuters,3
+220235,2019-06-29 00:00:00.0000000,2019-10-01 00:00:00.0000000,54.26,Yarım Pansiyon,Girne,Tuesday,94,Low,Early Bookers,Early Bookers,3
+206479,2019-03-25 00:00:00.0000000,2019-03-26 00:00:00.0000000,39.26,Yarım Pansiyon,Girne,Tuesday,1,Low,Last Minuters,Last Minuters,3
+200805,2019-02-04 00:00:00.0000000,2019-03-01 00:00:00.0000000,30.81,Yarım Pansiyon,Girne,Friday,25,Low,Potential Planners,Potential Planners,3
+199112,2019-01-18 00:00:00.0000000,2019-01-24 00:00:00.0000000,34.91,Yarım Pansiyon,Girne,Thursday,6,Low,Last Minuters,Last Minuters,3
+241661,2019-11-19 00:00:00.0000000,2019-11-22 00:00:00.0000000,23.81,Oda + Kahvaltı,Girne,Friday,3,Low,Last Minuters,Last Minuters,3
+241548,2019-11-19 00:00:00.0000000,2019-11-22 00:00:00.0000000,46.56,Yarım Pansiyon,Girne,Friday,3,Low,Last Minuters,Last Minuters,3
+238914,2019-10-29 00:00:00.0000000,2019-11-23 00:00:00.0000000,86.52,Herşey Dahil,Girne,Saturday,25,Low,Potential Planners,Potential Planners,3
+238913,2019-10-29 00:00:00.0000000,2019-11-23 00:00:00.0000000,86.52,Herşey Dahil,Girne,Saturday,25,Low,Potential Planners,Potential Planners,3
+237419,2019-10-15 00:00:00.0000000,2019-11-05 00:00:00.0000000,47.67,Yarım Pansiyon,Girne,Tuesday,21,Low,Potential Planners,Potential Planners,3
+237415,2019-10-15 00:00:00.0000000,2019-11-05 00:00:00.0000000,47.67,Yarım Pansiyon,Girne,Tuesday,21,Low,Potential Planners,Potential Planners,3
+87918,2016-09-24 00:00:00.0000000,2016-10-31 00:00:00.0000000,44.7,Yarım Pansiyon,Girne,Monday,37,Low,Planners,Planners,3
+55199,2016-02-15 00:00:00.0000000,2016-04-18 00:00:00.0000000,42.22,Yarım Pansiyon,Girne,Monday,63,Low,Planners,Planners,3
+235766,2019-09-30 00:00:00.0000000,2019-10-02 00:00:00.0000000,59.26,Yarım Pansiyon,Girne,Wednesday,2,Low,Last Minuters,Last Minuters,3
+225466,2019-07-24 00:00:00.0000000,2019-09-04 00:00:00.0000000,34.42,Oda + Kahvaltı,Girne,Wednesday,42,High,Planners,Planners,3
+203293,2019-02-26 00:00:00.0000000,2019-04-17 00:00:00.0000000,24.74,Yarım Pansiyon,Girne,Wednesday,50,Low,Planners,Planners,3
+235324,2019-09-26 00:00:00.0000000,2019-10-14 00:00:00.0000000,41.89,Oda + Kahvaltı,Girne,Monday,18,Low,Potential Planners,Potential Planners,3
+193716,2018-11-19 00:00:00.0000000,2018-11-25 00:00:00.0000000,36.49,Oda + Kahvaltı,Girne,Sunday,6,Low,Last Minuters,Last Minuters,3
+233809,2019-09-13 00:00:00.0000000,2019-11-06 00:00:00.0000000,57.9,Yarım Pansiyon,Girne,Wednesday,54,Low,Planners,Planners,3
+233705,2019-09-12 00:00:00.0000000,2019-09-13 00:00:00.0000000,17.98,Oda + Kahvaltı,Girne,Friday,1,High,Last Minuters,Last Minuters,3
+233700,2019-09-12 00:00:00.0000000,2019-09-13 00:00:00.0000000,17.98,Oda + Kahvaltı,Girne,Friday,1,High,Last Minuters,Last Minuters,3
+233579,2019-09-11 00:00:00.0000000,2019-10-05 00:00:00.0000000,26.71,Oda + Kahvaltı,Girne,Saturday,24,Low,Potential Planners,Potential Planners,3
+233455,2019-09-11 00:00:00.0000000,2019-10-05 00:00:00.0000000,17.81,Oda + Kahvaltı,Girne,Saturday,24,Low,Potential Planners,Potential Planners,3
+233438,2019-09-10 00:00:00.0000000,2019-10-05 00:00:00.0000000,17.81,Oda + Kahvaltı,Girne,Saturday,25,Low,Potential Planners,Potential Planners,3
+233427,2019-09-10 00:00:00.0000000,2019-09-19 00:00:00.0000000,50.96,Yarım Pansiyon,Girne,Thursday,9,High,Potential Planners,Potential Planners,3
+229006,2019-08-14 00:00:00.0000000,2019-08-18 00:00:00.0000000,65.97,Yarım Pansiyon,Girne,Sunday,4,High,Last Minuters,Last Minuters,3
+232692,2019-09-05 00:00:00.0000000,2019-11-30 00:00:00.0000000,16.33,Oda + Kahvaltı,Girne,Saturday,86,Low,Planners,Planners,3
+232497,2019-09-04 00:00:00.0000000,2019-09-22 00:00:00.0000000,52.62,Herşey Dahil,Girne,Sunday,18,High,Potential Planners,Potential Planners,3
+210469,2019-04-26 00:00:00.0000000,2019-05-19 00:00:00.0000000,42.78,Herşey Dahil,Girne,Sunday,23,High,Potential Planners,Potential Planners,3
+231993,2019-08-30 00:00:00.0000000,2019-09-01 00:00:00.0000000,58.2,Yarım Pansiyon,Girne,Sunday,2,High,Last Minuters,Last Minuters,3
+231984,2019-08-30 00:00:00.0000000,2019-09-11 00:00:00.0000000,43.58,Yarım Pansiyon,Girne,Wednesday,12,High,Potential Planners,Potential Planners,3
+231951,2019-08-30 00:00:00.0000000,2019-09-13 00:00:00.0000000,65.48,Herşey Dahil,Girne,Friday,14,High,Potential Planners,Potential Planners,3
+231093,2019-08-26 00:00:00.0000000,2019-08-27 00:00:00.0000000,22.27,Oda + Kahvaltı,Girne,Tuesday,1,High,Last Minuters,Last Minuters,3
+230410,2019-08-22 00:00:00.0000000,2019-08-27 00:00:00.0000000,20.19,Herşey Dahil,Girne,Tuesday,5,High,Last Minuters,Last Minuters,3
+230133,2019-08-20 00:00:00.0000000,2019-09-07 00:00:00.0000000,18.77,Yarım Pansiyon,Girne,Saturday,18,High,Potential Planners,Potential Planners,3
+229802,2019-08-19 00:00:00.0000000,2019-08-26 00:00:00.0000000,148.5,Herşey Dahil,Girne,Monday,7,High,Potential Planners,Potential Planners,3
+227441,2019-08-03 00:00:00.0000000,2019-08-11 00:00:00.0000000,18.92,Oda + Kahvaltı,Girne,Sunday,8,High,Potential Planners,Potential Planners,3
+156075,2018-04-08 00:00:00.0000000,2018-04-29 00:00:00.0000000,54.73,Herşey Dahil,Girne,Sunday,21,Low,Potential Planners,Potential Planners,3
+228900,2019-08-13 00:00:00.0000000,2019-08-21 00:00:00.0000000,35.27,Oda + Kahvaltı,Girne,Wednesday,8,High,Potential Planners,Potential Planners,3
+227810,2019-08-05 00:00:00.0000000,2019-08-21 00:00:00.0000000,56.48,Yarım Pansiyon,Girne,Wednesday,16,High,Potential Planners,Potential Planners,3
+226095,2019-07-27 00:00:00.0000000,2019-07-30 00:00:00.0000000,75.84,Yarım Pansiyon,Girne,Tuesday,3,High,Last Minuters,Last Minuters,3
+224651,2019-07-20 00:00:00.0000000,2019-07-22 00:00:00.0000000,160.32,Herşey Dahil,Girne,Monday,2,High,Last Minuters,Last Minuters,3
+198454,2019-01-11 00:00:00.0000000,2019-01-27 00:00:00.0000000,63.69,Herşey Dahil,Girne,Sunday,16,Low,Potential Planners,Potential Planners,3
+198452,2019-01-11 00:00:00.0000000,2019-01-27 00:00:00.0000000,63.69,Herşey Dahil,Girne,Sunday,16,Low,Potential Planners,Potential Planners,3
+198450,2019-01-11 00:00:00.0000000,2019-01-27 00:00:00.0000000,63.69,Herşey Dahil,Girne,Sunday,16,Low,Potential Planners,Potential Planners,3
+142063,2017-12-11 00:00:00.0000000,2018-01-29 00:00:00.0000000,53.94,Herşey Dahil,Girne,Monday,49,Low,Planners,Planners,3
+141967,2017-12-09 00:00:00.0000000,2018-01-29 00:00:00.0000000,50.06,Herşey Dahil,Girne,Monday,51,Low,Planners,Planners,3
+217862,2019-06-16 00:00:00.0000000,2019-07-14 00:00:00.0000000,103.04,Herşey Dahil,Girne,Sunday,28,High,Potential Planners,Potential Planners,3
+164386,2018-05-29 00:00:00.0000000,2018-07-15 00:00:00.0000000,80.27,Herşey Dahil,Girne,Sunday,47,High,Planners,Planners,3
+120288,2017-07-04 00:00:00.0000000,2017-08-13 00:00:00.0000000,106.23,Herşey Dahil,Girne,Sunday,40,High,Planners,Planners,3
+77715,2016-07-28 00:00:00.0000000,2016-08-17 00:00:00.0000000,18.76,Oda + Kahvaltı,Girne,Wednesday,20,High,Potential Planners,Potential Planners,3
+213889,2019-05-22 00:00:00.0000000,2019-06-11 00:00:00.0000000,46.71,Yarım Pansiyon,Girne,Tuesday,20,High,Potential Planners,Potential Planners,3
+213888,2019-05-22 00:00:00.0000000,2019-06-11 00:00:00.0000000,31.14,Yarım Pansiyon,Girne,Tuesday,20,High,Potential Planners,Potential Planners,3
+211733,2019-05-07 00:00:00.0000000,2019-05-14 00:00:00.0000000,81.15,Yarım Pansiyon,Girne,Tuesday,7,High,Potential Planners,Potential Planners,3
+213367,2019-05-18 00:00:00.0000000,2019-05-22 00:00:00.0000000,79.37,Yarım Pansiyon,Girne,Wednesday,4,High,Last Minuters,Last Minuters,3
+193622,2018-11-17 00:00:00.0000000,2018-12-14 00:00:00.0000000,91.48,Herşey Dahil,Girne,Friday,27,Low,Potential Planners,Potential Planners,3
+193621,2018-11-17 00:00:00.0000000,2018-12-14 00:00:00.0000000,99.79,Herşey Dahil,Girne,Friday,27,Low,Potential Planners,Potential Planners,3
+213306,2019-05-18 00:00:00.0000000,2019-05-18 00:00:00.0000000,37.62,Yarım Pansiyon,Girne,Saturday,0,High,Last Minuters,Last Minuters,3
+213286,2019-05-17 00:00:00.0000000,2019-08-19 00:00:00.0000000,47.62,Oda + Kahvaltı,Girne,Monday,94,High,Early Bookers,Early Bookers,3
+212999,2019-05-16 00:00:00.0000000,2019-05-18 00:00:00.0000000,33.97,Oda + Kahvaltı,Girne,Saturday,2,High,Last Minuters,Last Minuters,3
+211252,2019-05-03 00:00:00.0000000,2019-05-17 00:00:00.0000000,79.37,Yarım Pansiyon,Girne,Friday,14,High,Potential Planners,Potential Planners,3
+211252,2019-05-03 00:00:00.0000000,2019-05-24 00:00:00.0000000,79.37,Yarım Pansiyon,Girne,Friday,21,High,Potential Planners,Potential Planners,3
+210766,2019-04-29 00:00:00.0000000,2019-08-19 00:00:00.0000000,30.15,Yarım Pansiyon,Girne,Monday,112,High,Early Bookers,Early Bookers,3
+210520,2019-04-27 00:00:00.0000000,2019-05-15 00:00:00.0000000,67.61,Yarım Pansiyon,Girne,Wednesday,18,High,Potential Planners,Potential Planners,3
+192232,2018-11-02 00:00:00.0000000,2018-11-19 00:00:00.0000000,64.83,Herşey Dahil,Girne,Monday,17,Low,Potential Planners,Potential Planners,3
+210015,2019-04-23 00:00:00.0000000,2019-07-07 00:00:00.0000000,74.07,Herşey Dahil,Girne,Sunday,75,High,Planners,Planners,3
+209760,2019-04-19 00:00:00.0000000,2019-05-13 00:00:00.0000000,30.83,Yarım Pansiyon,Girne,Monday,24,High,Potential Planners,Potential Planners,3
+208687,2019-04-10 00:00:00.0000000,2019-04-13 00:00:00.0000000,168.65,Herşey Dahil,Girne,Saturday,3,Low,Last Minuters,Last Minuters,3
+208685,2019-04-10 00:00:00.0000000,2019-04-13 00:00:00.0000000,168.65,Herşey Dahil,Girne,Saturday,3,Low,Last Minuters,Last Minuters,3
+208292,2019-04-08 00:00:00.0000000,2019-04-25 00:00:00.0000000,38.66,Oda + Kahvaltı,Girne,Thursday,17,Low,Potential Planners,Potential Planners,3
+207314,2019-03-31 00:00:00.0000000,2019-05-19 00:00:00.0000000,46.27,Yarım Pansiyon,Girne,Sunday,49,High,Planners,Planners,3
+207167,2019-03-29 00:00:00.0000000,2019-06-24 00:00:00.0000000,97.0,Herşey Dahil,Girne,Monday,87,High,Planners,Planners,3
+206397,2019-03-24 00:00:00.0000000,2019-06-24 00:00:00.0000000,0.0,Yarım Pansiyon,Girne,Monday,92,High,Early Bookers,Early Bookers,3
+164777,2018-05-31 00:00:00.0000000,2018-08-05 00:00:00.0000000,46.31,Yarım Pansiyon,Girne,Sunday,66,High,Planners,Planners,3
+206393,2019-03-24 00:00:00.0000000,2019-06-24 00:00:00.0000000,46.27,Yarım Pansiyon,Girne,Monday,92,High,Early Bookers,Early Bookers,3
+164771,2018-05-31 00:00:00.0000000,2018-08-05 00:00:00.0000000,46.31,Yarım Pansiyon,Girne,Sunday,66,High,Planners,Planners,3
+206058,2019-03-21 00:00:00.0000000,2019-08-12 00:00:00.0000000,51.21,Oda + Kahvaltı,Girne,Monday,144,High,Early Bookers,Early Bookers,3
+176849,2018-07-26 00:00:00.0000000,2018-08-09 00:00:00.0000000,28.1,Oda + Kahvaltı,Girne,Thursday,14,High,Potential Planners,Potential Planners,3
+169407,2018-06-25 00:00:00.0000000,2018-08-20 00:00:00.0000000,54.97,Yarım Pansiyon,Girne,Monday,56,High,Planners,Planners,3
+166080,2018-06-07 00:00:00.0000000,2018-06-13 00:00:00.0000000,32.0,Oda + Kahvaltı,Girne,Wednesday,6,High,Last Minuters,Last Minuters,3
+131436,2017-08-20 00:00:00.0000000,2017-08-31 00:00:00.0000000,55.48,Yarım Pansiyon,Girne,Thursday,11,High,Potential Planners,Potential Planners,3
+119906,2017-07-03 00:00:00.0000000,2017-07-26 00:00:00.0000000,129.16,Herşey Dahil,Girne,Wednesday,23,High,Potential Planners,Potential Planners,3
+203510,2019-02-27 00:00:00.0000000,2019-03-01 00:00:00.0000000,49.38,Yarım Pansiyon,Girne,Friday,2,Low,Last Minuters,Last Minuters,3
+204501,2019-03-07 00:00:00.0000000,2019-04-19 00:00:00.0000000,132.28,Oda + Kahvaltı,Girne,Friday,43,Low,Planners,Planners,3
+204501,2019-03-07 00:00:00.0000000,2019-04-19 00:00:00.0000000,132.28,Oda + Kahvaltı,Girne,Friday,43,Low,Planners,Planners,3
+204488,2019-03-07 00:00:00.0000000,2019-03-17 00:00:00.0000000,40.74,Yarım Pansiyon,Girne,Sunday,10,Low,Potential Planners,Potential Planners,3
+204283,2019-03-05 00:00:00.0000000,2019-04-03 00:00:00.0000000,87.79,Herşey Dahil,Girne,Wednesday,29,Low,Potential Planners,Potential Planners,3
+190493,2018-10-15 00:00:00.0000000,2018-10-29 00:00:00.0000000,133.47,Herşey Dahil,Girne,Monday,14,Low,Potential Planners,Potential Planners,3
+203508,2019-02-27 00:00:00.0000000,2019-03-26 00:00:00.0000000,34.92,Yarım Pansiyon,Girne,Tuesday,27,Low,Potential Planners,Potential Planners,3
+203492,2019-02-27 00:00:00.0000000,2019-03-26 00:00:00.0000000,23.28,Yarım Pansiyon,Girne,Tuesday,27,Low,Potential Planners,Potential Planners,3
+203079,2019-02-25 00:00:00.0000000,2019-03-19 00:00:00.0000000,37.1,Yarım Pansiyon,Girne,Tuesday,22,Low,Potential Planners,Potential Planners,3
+203074,2019-02-25 00:00:00.0000000,2019-03-19 00:00:00.0000000,37.1,Yarım Pansiyon,Girne,Tuesday,22,Low,Potential Planners,Potential Planners,3
+150703,2018-02-27 00:00:00.0000000,2018-03-29 00:00:00.0000000,47.82,Yarım Pansiyon,Girne,Thursday,30,Low,Planners,Planners,3
+203008,2019-02-23 00:00:00.0000000,2019-03-03 00:00:00.0000000,31.04,Oda + Kahvaltı,Girne,Sunday,8,Low,Potential Planners,Potential Planners,3
+202208,2019-02-16 00:00:00.0000000,2019-07-15 00:00:00.0000000,84.31,Herşey Dahil,Girne,Monday,149,High,Early Bookers,Early Bookers,3
+201744,2019-02-12 00:00:00.0000000,2019-02-12 00:00:00.0000000,34.92,Yarım Pansiyon,Girne,Tuesday,0,Low,Last Minuters,Last Minuters,3
+200915,2019-02-04 00:00:00.0000000,2019-02-06 00:00:00.0000000,38.8,Yarım Pansiyon,Girne,Wednesday,2,Low,Last Minuters,Last Minuters,3
+200612,2019-02-01 00:00:00.0000000,2019-03-07 00:00:00.0000000,37.63,Oda + Kahvaltı,Girne,Thursday,34,Low,Planners,Planners,3
+200294,2019-01-29 00:00:00.0000000,2019-02-18 00:00:00.0000000,119.05,Herşey Dahil,Girne,Monday,20,Low,Potential Planners,Potential Planners,3
+199570,2019-01-23 00:00:00.0000000,2019-01-30 00:00:00.0000000,34.92,Yarım Pansiyon,Girne,Wednesday,7,Low,Potential Planners,Potential Planners,3
+199562,2019-01-23 00:00:00.0000000,2019-01-30 00:00:00.0000000,34.92,Yarım Pansiyon,Girne,Wednesday,7,Low,Potential Planners,Potential Planners,3
+199518,2019-01-22 00:00:00.0000000,2019-01-30 00:00:00.0000000,23.28,Yarım Pansiyon,Girne,Wednesday,8,Low,Potential Planners,Potential Planners,3
+199518,2019-01-22 00:00:00.0000000,2019-01-30 00:00:00.0000000,23.57,Yarım Pansiyon,Girne,Wednesday,8,Low,Potential Planners,Potential Planners,3
+198390,2019-01-10 00:00:00.0000000,2019-01-23 00:00:00.0000000,22.41,Yarım Pansiyon,Girne,Wednesday,13,Low,Potential Planners,Potential Planners,3
+198341,2019-01-10 00:00:00.0000000,2019-08-01 00:00:00.0000000,64.2,Oda + Kahvaltı,Girne,Thursday,203,High,Early Bookers,Early Bookers,3
+121617,2017-07-10 00:00:00.0000000,2017-08-05 00:00:00.0000000,87.84,Yarım Pansiyon,Girne,Saturday,26,High,Potential Planners,Potential Planners,3
+196205,2018-12-18 00:00:00.0000000,2018-12-25 00:00:00.0000000,120.06,Herşey Dahil,Girne,Tuesday,7,Low,Potential Planners,Potential Planners,3
+187775,2018-09-20 00:00:00.0000000,2018-10-02 00:00:00.0000000,175.42,Herşey Dahil,Girne,Tuesday,12,Low,Potential Planners,Potential Planners,3
+195931,2018-12-15 00:00:00.0000000,2018-12-22 00:00:00.0000000,66.53,Oda + Kahvaltı,Girne,Saturday,7,Low,Potential Planners,Potential Planners,3
+195824,2018-12-13 00:00:00.0000000,2018-12-14 00:00:00.0000000,59.25,Yarım Pansiyon,Girne,Friday,1,Low,Last Minuters,Last Minuters,3
+195824,2018-12-13 00:00:00.0000000,2018-12-14 00:00:00.0000000,53.01,Yarım Pansiyon,Girne,Friday,1,Low,Last Minuters,Last Minuters,3
+195653,2018-12-12 00:00:00.0000000,2018-12-12 00:00:00.0000000,83.16,Oda + Kahvaltı,Girne,Wednesday,0,Low,Last Minuters,Last Minuters,3
+195403,2018-12-09 00:00:00.0000000,2019-06-24 00:00:00.0000000,74.15,Herşey Dahil,Girne,Monday,197,High,Early Bookers,Early Bookers,3
+195274,2018-12-07 00:00:00.0000000,2018-12-11 00:00:00.0000000,61.19,Yarım Pansiyon,Girne,Tuesday,4,Low,Last Minuters,Last Minuters,3
+195271,2018-12-07 00:00:00.0000000,2018-12-11 00:00:00.0000000,61.19,Yarım Pansiyon,Girne,Tuesday,4,Low,Last Minuters,Last Minuters,3
+195250,2018-12-07 00:00:00.0000000,2018-12-19 00:00:00.0000000,11.89,Yarım Pansiyon,Girne,Wednesday,12,Low,Potential Planners,Potential Planners,3
+194194,2018-11-24 00:00:00.0000000,2018-12-02 00:00:00.0000000,44.91,Yarım Pansiyon,Girne,Sunday,8,Low,Potential Planners,Potential Planners,3
+194131,2018-11-23 00:00:00.0000000,2018-11-27 00:00:00.0000000,55.44,Oda + Kahvaltı,Girne,Tuesday,4,Low,Last Minuters,Last Minuters,3
+193929,2018-11-21 00:00:00.0000000,2018-11-25 00:00:00.0000000,65.68,Herşey Dahil,Girne,Sunday,4,Low,Last Minuters,Last Minuters,3
+193779,2018-11-20 00:00:00.0000000,2018-12-16 00:00:00.0000000,65.68,Herşey Dahil,Girne,Sunday,26,Low,Potential Planners,Potential Planners,3
+193625,2018-11-18 00:00:00.0000000,2019-01-27 00:00:00.0000000,66.05,Herşey Dahil,Girne,Sunday,70,Low,Planners,Planners,3
+193105,2018-11-12 00:00:00.0000000,2018-11-17 00:00:00.0000000,145.53,Yarım Pansiyon,Girne,Saturday,5,Low,Last Minuters,Last Minuters,3
+193080,2018-11-11 00:00:00.0000000,2018-11-28 00:00:00.0000000,42.54,Yarım Pansiyon,Girne,Wednesday,17,Low,Potential Planners,Potential Planners,3
+192489,2018-11-05 00:00:00.0000000,2018-12-31 00:00:00.0000000,53.01,Yarım Pansiyon,Girne,Monday,56,Low,Planners,Planners,3
+192248,2018-11-02 00:00:00.0000000,2018-11-03 00:00:00.0000000,32.22,Oda + Kahvaltı,Girne,Saturday,1,Low,Last Minuters,Last Minuters,3
+192089,2018-11-01 00:00:00.0000000,2018-11-02 00:00:00.0000000,74.84,Yarım Pansiyon,Girne,Friday,1,Low,Last Minuters,Last Minuters,3
+191981,2018-11-01 00:00:00.0000000,2018-11-22 00:00:00.0000000,93.21,Herşey Dahil,Girne,Thursday,21,Low,Potential Planners,Potential Planners,3
+191792,2018-10-29 00:00:00.0000000,2018-11-01 00:00:00.0000000,59.25,Yarım Pansiyon,Girne,Thursday,3,Low,Last Minuters,Last Minuters,3
+191760,2018-10-29 00:00:00.0000000,2018-11-04 00:00:00.0000000,65.49,Yarım Pansiyon,Girne,Sunday,6,Low,Last Minuters,Last Minuters,3
+191760,2018-10-29 00:00:00.0000000,2018-11-04 00:00:00.0000000,65.49,Yarım Pansiyon,Girne,Sunday,6,Low,Last Minuters,Last Minuters,3
+191552,2018-10-25 00:00:00.0000000,2018-12-09 00:00:00.0000000,44.52,Oda + Kahvaltı,Girne,Sunday,45,Low,Planners,Planners,3
+191430,2018-10-24 00:00:00.0000000,2018-11-26 00:00:00.0000000,37.84,Oda + Kahvaltı,Girne,Monday,33,Low,Planners,Planners,3
+191155,2018-10-22 00:00:00.0000000,2018-10-23 00:00:00.0000000,20.79,Oda + Kahvaltı,Girne,Tuesday,1,Low,Last Minuters,Last Minuters,3
+190471,2018-10-15 00:00:00.0000000,2018-12-08 00:00:00.0000000,38.81,Oda + Kahvaltı,Girne,Saturday,54,Low,Planners,Planners,3
+102473,2017-03-14 00:00:00.0000000,2017-05-13 00:00:00.0000000,126.03,Oda + Kahvaltı,Girne,Saturday,60,High,Planners,Planners,3
+82110,2016-08-17 00:00:00.0000000,2016-08-19 00:00:00.0000000,89.4,Yarım Pansiyon,Girne,Friday,2,High,Last Minuters,Last Minuters,3
+56263,2016-02-26 00:00:00.0000000,2016-03-19 00:00:00.0000000,69.54,Yarım Pansiyon,Girne,Saturday,22,Low,Potential Planners,Potential Planners,3
+56263,2016-02-26 00:00:00.0000000,2016-03-19 00:00:00.0000000,62.58,Yarım Pansiyon,Girne,Saturday,22,Low,Potential Planners,Potential Planners,3
+190297,2018-10-13 00:00:00.0000000,2018-10-16 00:00:00.0000000,29.94,Yarım Pansiyon,Girne,Tuesday,3,Low,Last Minuters,Last Minuters,3
+190048,2018-10-10 00:00:00.0000000,2018-10-12 00:00:00.0000000,28.51,Yarım Pansiyon,Girne,Friday,2,Low,Last Minuters,Last Minuters,3
+189757,2018-10-08 00:00:00.0000000,2018-11-05 00:00:00.0000000,42.54,Yarım Pansiyon,Girne,Monday,28,Low,Potential Planners,Potential Planners,3
+189706,2018-10-08 00:00:00.0000000,2018-10-09 00:00:00.0000000,63.76,Yarım Pansiyon,Girne,Tuesday,1,Low,Last Minuters,Last Minuters,3
+189384,2018-10-04 00:00:00.0000000,2018-10-09 00:00:00.0000000,51.17,Yarım Pansiyon,Girne,Tuesday,5,Low,Last Minuters,Last Minuters,3
+189371,2018-10-04 00:00:00.0000000,2018-10-05 00:00:00.0000000,83.16,Oda + Kahvaltı,Girne,Friday,1,Low,Last Minuters,Last Minuters,3
+189370,2018-10-04 00:00:00.0000000,2018-10-19 00:00:00.0000000,83.16,Oda + Kahvaltı,Girne,Friday,15,Low,Potential Planners,Potential Planners,3
+189369,2018-10-04 00:00:00.0000000,2018-10-19 00:00:00.0000000,83.16,Oda + Kahvaltı,Girne,Friday,15,Low,Potential Planners,Potential Planners,3
+189368,2018-10-04 00:00:00.0000000,2018-10-19 00:00:00.0000000,83.16,Oda + Kahvaltı,Girne,Friday,15,Low,Potential Planners,Potential Planners,3
+189366,2018-10-04 00:00:00.0000000,2018-10-19 00:00:00.0000000,83.16,Oda + Kahvaltı,Girne,Friday,15,Low,Potential Planners,Potential Planners,3
+189127,2018-10-03 00:00:00.0000000,2018-12-31 00:00:00.0000000,49.9,Yarım Pansiyon,Girne,Monday,89,Low,Planners,Planners,3
+188311,2018-09-25 00:00:00.0000000,2018-10-01 00:00:00.0000000,76.86,Herşey Dahil,Girne,Monday,6,Low,Last Minuters,Last Minuters,3
+188303,2018-09-25 00:00:00.0000000,2018-10-07 00:00:00.0000000,42.97,Oda + Kahvaltı,Girne,Sunday,12,Low,Potential Planners,Potential Planners,3
+58188,2016-03-19 00:00:00.0000000,2016-07-22 00:00:00.0000000,33.11,Oda + Kahvaltı,Girne,Friday,125,High,Early Bookers,Early Bookers,3
+187296,2018-09-17 00:00:00.0000000,2018-09-18 00:00:00.0000000,33.06,Yarım Pansiyon,Girne,Tuesday,1,High,Last Minuters,Last Minuters,3
+186736,2018-09-12 00:00:00.0000000,2018-11-09 00:00:00.0000000,43.26,Yarım Pansiyon,Girne,Friday,58,Low,Planners,Planners,3
+186402,2018-09-10 00:00:00.0000000,2018-09-15 00:00:00.0000000,68.38,Yarım Pansiyon,Girne,Saturday,5,High,Last Minuters,Last Minuters,3
+186402,2018-09-10 00:00:00.0000000,2018-09-15 00:00:00.0000000,102.56,Yarım Pansiyon,Girne,Saturday,5,High,Last Minuters,Last Minuters,3
+186381,2018-09-10 00:00:00.0000000,2018-09-11 00:00:00.0000000,83.16,Oda + Kahvaltı,Girne,Tuesday,1,High,Last Minuters,Last Minuters,3
+185501,2018-09-05 00:00:00.0000000,2018-09-26 00:00:00.0000000,116.11,Herşey Dahil,Girne,Wednesday,21,High,Potential Planners,Potential Planners,3
+158896,2018-04-26 00:00:00.0000000,2018-07-01 00:00:00.0000000,64.13,Herşey Dahil,Girne,Sunday,66,High,Planners,Planners,3
+185123,2018-09-04 00:00:00.0000000,2018-09-05 00:00:00.0000000,55.44,Oda + Kahvaltı,Girne,Wednesday,1,High,Last Minuters,Last Minuters,3
+183894,2018-08-31 00:00:00.0000000,2018-09-02 00:00:00.0000000,55.44,Oda + Kahvaltı,Girne,Sunday,2,High,Last Minuters,Last Minuters,3
+183098,2018-08-27 00:00:00.0000000,2018-08-28 00:00:00.0000000,27.55,Oda + Kahvaltı,Girne,Tuesday,1,High,Last Minuters,Last Minuters,3
+182784,2018-08-24 00:00:00.0000000,2018-08-26 00:00:00.0000000,83.16,Oda + Kahvaltı,Girne,Sunday,2,High,Last Minuters,Last Minuters,3
+182559,2018-08-20 00:00:00.0000000,2018-08-30 00:00:00.0000000,144.62,Herşey Dahil,Girne,Thursday,10,High,Potential Planners,Potential Planners,3
+182543,2018-08-20 00:00:00.0000000,2018-08-21 00:00:00.0000000,34.16,Oda + Kahvaltı,Girne,Tuesday,1,High,Last Minuters,Last Minuters,3
+181940,2018-08-16 00:00:00.0000000,2018-08-17 00:00:00.0000000,39.45,Oda + Kahvaltı,Girne,Friday,1,High,Last Minuters,Last Minuters,3
+181510,2018-08-14 00:00:00.0000000,2018-08-21 00:00:00.0000000,17.33,Oda + Kahvaltı,Girne,Tuesday,7,High,Potential Planners,Potential Planners,3
+181448,2018-08-14 00:00:00.0000000,2018-08-17 00:00:00.0000000,45.01,Oda + Kahvaltı,Girne,Friday,3,High,Last Minuters,Last Minuters,3
+180875,2018-08-10 00:00:00.0000000,2018-11-14 00:00:00.0000000,71.07,Herşey Dahil,Girne,Wednesday,96,Low,Early Bookers,Early Bookers,3
+180648,2018-08-09 00:00:00.0000000,2018-12-29 00:00:00.0000000,33.06,Oda + Kahvaltı,Girne,Saturday,142,Low,Early Bookers,Early Bookers,3
+180450,2018-08-08 00:00:00.0000000,2018-08-17 00:00:00.0000000,42.97,Oda + Kahvaltı,Girne,Friday,9,High,Potential Planners,Potential Planners,3
+177903,2018-07-30 00:00:00.0000000,2018-08-27 00:00:00.0000000,55.44,Oda + Kahvaltı,Girne,Monday,28,High,Potential Planners,Potential Planners,3
+177517,2018-07-29 00:00:00.0000000,2018-08-05 00:00:00.0000000,64.73,Herşey Dahil,Girne,Sunday,7,High,Potential Planners,Potential Planners,3
+177098,2018-07-27 00:00:00.0000000,2018-07-28 00:00:00.0000000,68.38,Yarım Pansiyon,Girne,Saturday,1,High,Last Minuters,Last Minuters,3
+176921,2018-07-26 00:00:00.0000000,2018-10-28 00:00:00.0000000,34.65,Yarım Pansiyon,Girne,Sunday,94,Low,Early Bookers,Early Bookers,3
+176162,2018-07-23 00:00:00.0000000,2018-08-06 00:00:00.0000000,24.47,Yarım Pansiyon,Girne,Monday,14,High,Potential Planners,Potential Planners,3
+165014,2018-06-01 00:00:00.0000000,2018-06-29 00:00:00.0000000,53.76,Herşey Dahil,Girne,Friday,28,High,Potential Planners,Potential Planners,3
+172255,2018-07-06 00:00:00.0000000,2018-08-02 00:00:00.0000000,27.53,Yarım Pansiyon,Girne,Thursday,27,High,Potential Planners,Potential Planners,3
+171142,2018-07-03 00:00:00.0000000,2018-07-09 00:00:00.0000000,99.41,Herşey Dahil,Girne,Monday,6,High,Last Minuters,Last Minuters,3
+171095,2018-07-02 00:00:00.0000000,2018-07-03 00:00:00.0000000,33.37,Yarım Pansiyon,Girne,Tuesday,1,High,Last Minuters,Last Minuters,3
+169771,2018-06-26 00:00:00.0000000,2018-07-06 00:00:00.0000000,75.78,Yarım Pansiyon,Girne,Friday,10,High,Potential Planners,Potential Planners,3
+169770,2018-06-26 00:00:00.0000000,2018-07-06 00:00:00.0000000,75.78,Yarım Pansiyon,Girne,Friday,10,High,Potential Planners,Potential Planners,3
+169768,2018-06-26 00:00:00.0000000,2018-07-06 00:00:00.0000000,75.78,Yarım Pansiyon,Girne,Friday,10,High,Potential Planners,Potential Planners,3
+167871,2018-06-18 00:00:00.0000000,2018-06-24 00:00:00.0000000,53.51,Herşey Dahil,Girne,Sunday,6,High,Last Minuters,Last Minuters,3
+167037,2018-06-12 00:00:00.0000000,2018-07-15 00:00:00.0000000,108.11,Herşey Dahil,Girne,Sunday,33,High,Planners,Planners,3
+166124,2018-06-07 00:00:00.0000000,2018-10-27 00:00:00.0000000,110.71,Herşey Dahil,Girne,Saturday,142,Low,Early Bookers,Early Bookers,3
+165976,2018-06-06 00:00:00.0000000,2018-07-18 00:00:00.0000000,31.19,Herşey Dahil,Girne,Wednesday,42,High,Planners,Planners,3
+164927,2018-05-31 00:00:00.0000000,2018-06-29 00:00:00.0000000,53.76,Herşey Dahil,Girne,Friday,29,High,Potential Planners,Potential Planners,3
+164901,2018-05-31 00:00:00.0000000,2018-06-28 00:00:00.0000000,96.32,Herşey Dahil,Girne,Thursday,28,High,Potential Planners,Potential Planners,3
+164899,2018-05-31 00:00:00.0000000,2018-06-28 00:00:00.0000000,105.08,Herşey Dahil,Girne,Thursday,28,High,Potential Planners,Potential Planners,3
+92537,2016-11-08 00:00:00.0000000,2016-11-13 00:00:00.0000000,82.78,Herşey Dahil,Girne,Sunday,5,Low,Last Minuters,Last Minuters,3
+164306,2018-05-28 00:00:00.0000000,2018-07-16 00:00:00.0000000,107.18,Herşey Dahil,Girne,Monday,49,High,Planners,Planners,3
+164245,2018-05-28 00:00:00.0000000,2018-07-01 00:00:00.0000000,35.34,Oda + Kahvaltı,Girne,Sunday,34,High,Planners,Planners,3
+163968,2018-05-25 00:00:00.0000000,2018-05-29 00:00:00.0000000,24.03,Oda + Kahvaltı,Girne,Tuesday,4,High,Last Minuters,Last Minuters,3
+163966,2018-05-25 00:00:00.0000000,2018-05-29 00:00:00.0000000,24.03,Oda + Kahvaltı,Girne,Tuesday,4,High,Last Minuters,Last Minuters,3
+161493,2018-05-12 00:00:00.0000000,2018-06-24 00:00:00.0000000,33.26,Yarım Pansiyon,Girne,Sunday,43,High,Planners,Planners,3
+160775,2018-05-07 00:00:00.0000000,2018-06-03 00:00:00.0000000,72.97,Herşey Dahil,Girne,Sunday,27,High,Potential Planners,Potential Planners,3
+160775,2018-05-07 00:00:00.0000000,2018-06-03 00:00:00.0000000,72.97,Herşey Dahil,Girne,Sunday,27,High,Potential Planners,Potential Planners,3
+160273,2018-05-04 00:00:00.0000000,2018-05-06 00:00:00.0000000,99.79,Herşey Dahil,Girne,Sunday,2,High,Last Minuters,Last Minuters,3
+159847,2018-05-01 00:00:00.0000000,2018-05-03 00:00:00.0000000,44.91,Oda + Kahvaltı,Girne,Thursday,2,High,Last Minuters,Last Minuters,3
+159202,2018-04-27 00:00:00.0000000,2018-06-18 00:00:00.0000000,115.77,Herşey Dahil,Girne,Monday,52,High,Planners,Planners,3
+159196,2018-04-27 00:00:00.0000000,2018-06-18 00:00:00.0000000,115.77,Herşey Dahil,Girne,Monday,52,High,Planners,Planners,3
+158467,2018-04-24 00:00:00.0000000,2018-04-26 00:00:00.0000000,47.8,Oda + Kahvaltı,Girne,Thursday,2,Low,Last Minuters,Last Minuters,3
+157693,2018-04-19 00:00:00.0000000,2018-05-04 00:00:00.0000000,26.3,Oda + Kahvaltı,Girne,Friday,15,High,Potential Planners,Potential Planners,3
+157281,2018-04-17 00:00:00.0000000,2018-05-18 00:00:00.0000000,21.21,Oda + Kahvaltı,Girne,Friday,31,High,Planners,Planners,3
+157281,2018-04-17 00:00:00.0000000,2018-05-18 00:00:00.0000000,21.21,Oda + Kahvaltı,Girne,Friday,31,High,Planners,Planners,3
+157225,2018-04-16 00:00:00.0000000,2018-04-23 00:00:00.0000000,38.12,Yarım Pansiyon,Girne,Monday,7,Low,Potential Planners,Potential Planners,3
+157136,2018-04-16 00:00:00.0000000,2018-04-19 00:00:00.0000000,83.36,Herşey Dahil,Girne,Thursday,3,Low,Last Minuters,Last Minuters,3
+156724,2018-04-12 00:00:00.0000000,2018-06-06 00:00:00.0000000,71.73,Oda + Kahvaltı,Girne,Wednesday,55,High,Planners,Planners,3
+156693,2018-04-13 00:00:00.0000000,2018-04-20 00:00:00.0000000,23.9,Oda + Kahvaltı,Girne,Friday,7,Low,Potential Planners,Potential Planners,3
+156683,2018-04-12 00:00:00.0000000,2018-04-20 00:00:00.0000000,23.9,Oda + Kahvaltı,Girne,Friday,8,Low,Potential Planners,Potential Planners,3
+156683,2018-04-12 00:00:00.0000000,2018-04-20 00:00:00.0000000,47.8,Oda + Kahvaltı,Girne,Friday,8,Low,Potential Planners,Potential Planners,3
+156399,2018-04-10 00:00:00.0000000,2018-06-24 00:00:00.0000000,53.51,Herşey Dahil,Girne,Sunday,75,High,Planners,Planners,3
+155828,2018-04-06 00:00:00.0000000,2018-05-05 00:00:00.0000000,31.88,Oda + Kahvaltı,Girne,Saturday,29,High,Potential Planners,Potential Planners,3
+155723,2018-04-06 00:00:00.0000000,2018-04-08 00:00:00.0000000,23.9,Oda + Kahvaltı,Girne,Sunday,2,Low,Last Minuters,Last Minuters,3
+155611,2018-04-05 00:00:00.0000000,2018-04-07 00:00:00.0000000,112.27,Herşey Dahil,Girne,Saturday,2,Low,Last Minuters,Last Minuters,3
+155547,2018-04-05 00:00:00.0000000,2018-04-07 00:00:00.0000000,112.27,Herşey Dahil,Girne,Saturday,2,Low,Last Minuters,Last Minuters,3
+154960,2018-03-31 00:00:00.0000000,2018-04-07 00:00:00.0000000,74.84,Herşey Dahil,Girne,Saturday,7,Low,Potential Planners,Potential Planners,3
+155483,2018-04-04 00:00:00.0000000,2018-04-20 00:00:00.0000000,106.03,Herşey Dahil,Girne,Friday,16,Low,Potential Planners,Potential Planners,3
+155418,2018-03-29 00:00:00.0000000,2018-06-20 00:00:00.0000000,67.96,Oda + Kahvaltı,Girne,Wednesday,83,High,Planners,Planners,3
+155172,2018-03-29 00:00:00.0000000,2018-09-25 00:00:00.0000000,71.73,Oda + Kahvaltı,Girne,Tuesday,180,High,Early Bookers,Early Bookers,3
+155172,2018-03-29 00:00:00.0000000,2018-09-25 00:00:00.0000000,47.82,Oda + Kahvaltı,Girne,Tuesday,180,High,Early Bookers,Early Bookers,3
+154996,2018-04-01 00:00:00.0000000,2018-04-17 00:00:00.0000000,41.58,Yarım Pansiyon,Girne,Tuesday,16,Low,Potential Planners,Potential Planners,3
+154560,2018-03-28 00:00:00.0000000,2018-04-14 00:00:00.0000000,29.66,Oda + Kahvaltı,Girne,Saturday,17,Low,Potential Planners,Potential Planners,3
+154557,2018-03-28 00:00:00.0000000,2018-04-04 00:00:00.0000000,43.3,Herşey Dahil,Girne,Wednesday,7,Low,Potential Planners,Potential Planners,3
+154426,2018-03-28 00:00:00.0000000,2018-04-11 00:00:00.0000000,43.05,Yarım Pansiyon,Girne,Wednesday,14,Low,Potential Planners,Potential Planners,3
+154420,2018-03-28 00:00:00.0000000,2018-04-02 00:00:00.0000000,92.0,Yarım Pansiyon,Girne,Monday,5,Low,Last Minuters,Last Minuters,3
+154409,2018-03-28 00:00:00.0000000,2018-03-31 00:00:00.0000000,23.56,Oda + Kahvaltı,Girne,Saturday,3,Low,Last Minuters,Last Minuters,3
+153828,2018-03-24 00:00:00.0000000,2018-04-24 00:00:00.0000000,27.79,Oda + Kahvaltı,Girne,Tuesday,31,Low,Planners,Planners,3
+153699,2018-03-24 00:00:00.0000000,2018-05-18 00:00:00.0000000,21.21,Oda + Kahvaltı,Girne,Friday,55,High,Planners,Planners,3
+153668,2018-03-23 00:00:00.0000000,2018-05-18 00:00:00.0000000,21.21,Oda + Kahvaltı,Girne,Friday,56,High,Planners,Planners,3
+153692,2018-03-23 00:00:00.0000000,2018-07-31 00:00:00.0000000,39.41,Yarım Pansiyon,Girne,Tuesday,130,High,Early Bookers,Early Bookers,3
+152756,2018-03-18 00:00:00.0000000,2018-04-19 00:00:00.0000000,102.91,Herşey Dahil,Girne,Thursday,32,Low,Planners,Planners,3
+152664,2018-03-17 00:00:00.0000000,2018-03-18 00:00:00.0000000,41.58,Yarım Pansiyon,Girne,Sunday,1,Low,Last Minuters,Last Minuters,3
+151924,2018-03-09 00:00:00.0000000,2018-03-13 00:00:00.0000000,31.19,Oda + Kahvaltı,Girne,Tuesday,4,Low,Last Minuters,Last Minuters,3
+152239,2018-03-13 00:00:00.0000000,2018-03-21 00:00:00.0000000,35.69,Yarım Pansiyon,Girne,Wednesday,8,Low,Potential Planners,Potential Planners,3
+113054,2017-05-30 00:00:00.0000000,2017-06-17 00:00:00.0000000,46.58,Yarım Pansiyon,Girne,Saturday,18,High,Potential Planners,Potential Planners,3
+113053,2017-05-30 00:00:00.0000000,2017-06-17 00:00:00.0000000,46.58,Yarım Pansiyon,Girne,Saturday,18,High,Potential Planners,Potential Planners,3
+148808,2018-02-12 00:00:00.0000000,2018-06-21 00:00:00.0000000,37.42,Yarım Pansiyon,Girne,Thursday,129,High,Early Bookers,Early Bookers,3
+146216,2018-01-23 00:00:00.0000000,2018-06-21 00:00:00.0000000,51.98,Yarım Pansiyon,Girne,Thursday,149,High,Early Bookers,Early Bookers,3
+130840,2017-08-17 00:00:00.0000000,2017-09-18 00:00:00.0000000,95.89,Yarım Pansiyon,Girne,Monday,32,High,Planners,Planners,3
+98182,2017-02-06 00:00:00.0000000,2017-02-19 00:00:00.0000000,59.18,Yarım Pansiyon,Girne,Sunday,13,Low,Potential Planners,Potential Planners,3
+77248,2016-07-26 00:00:00.0000000,2016-09-10 00:00:00.0000000,51.32,Yarım Pansiyon,Girne,Saturday,46,High,Planners,Planners,3
+148251,2018-02-07 00:00:00.0000000,2018-03-08 00:00:00.0000000,23.7,Oda + Kahvaltı,Girne,Thursday,29,Low,Potential Planners,Potential Planners,3
+148181,2018-03-29 00:00:00.0000000,2018-04-22 00:00:00.0000000,61.33,Yarım Pansiyon,Girne,Sunday,24,Low,Potential Planners,Potential Planners,3
+147665,2018-02-02 00:00:00.0000000,2018-03-08 00:00:00.0000000,27.86,Yarım Pansiyon,Girne,Thursday,34,Low,Planners,Planners,3
+147231,2018-01-30 00:00:00.0000000,2018-02-17 00:00:00.0000000,28.9,Yarım Pansiyon,Girne,Saturday,18,Low,Potential Planners,Potential Planners,3
+146493,2018-01-25 00:00:00.0000000,2018-01-28 00:00:00.0000000,43.83,Yarım Pansiyon,Girne,Sunday,3,Low,Last Minuters,Last Minuters,3
+146399,2018-01-24 00:00:00.0000000,2018-02-24 00:00:00.0000000,24.95,Oda + Kahvaltı,Girne,Saturday,31,Low,Planners,Planners,3
+146018,2018-01-22 00:00:00.0000000,2018-01-29 00:00:00.0000000,29.57,Oda + Kahvaltı,Girne,Monday,7,Low,Potential Planners,Potential Planners,3
+145668,2018-01-18 00:00:00.0000000,2018-01-23 00:00:00.0000000,29.83,Oda + Kahvaltı,Girne,Tuesday,5,Low,Last Minuters,Last Minuters,3
+141143,2017-11-28 00:00:00.0000000,2017-12-22 00:00:00.0000000,47.5,Oda + Kahvaltı,Girne,Friday,24,Low,Potential Planners,Potential Planners,3
+140340,2017-11-14 00:00:00.0000000,2017-11-19 00:00:00.0000000,58.45,Yarım Pansiyon,Girne,Sunday,5,Low,Last Minuters,Last Minuters,3
+144105,2018-01-05 00:00:00.0000000,2018-01-12 00:00:00.0000000,23.7,Oda + Kahvaltı,Girne,Friday,7,Low,Potential Planners,Potential Planners,3
+107163,2017-04-21 00:00:00.0000000,2017-11-05 00:00:00.0000000,102.74,Herşey Dahil,Girne,Sunday,198,Low,Early Bookers,Early Bookers,3
+93508,2016-11-29 00:00:00.0000000,2017-04-09 00:00:00.0000000,97.26,Herşey Dahil,Girne,Sunday,131,Low,Early Bookers,Early Bookers,3
+141758,2017-12-07 00:00:00.0000000,2018-02-11 00:00:00.0000000,33.78,Yarım Pansiyon,Girne,Sunday,66,Low,Planners,Planners,3
+141696,2017-12-06 00:00:00.0000000,2018-01-22 00:00:00.0000000,20.79,Oda + Kahvaltı,Girne,Monday,47,Low,Planners,Planners,3
+141427,2017-12-01 00:00:00.0000000,2017-12-03 00:00:00.0000000,68.15,Herşey Dahil,Girne,Sunday,2,Low,Last Minuters,Last Minuters,3
+140547,2017-11-17 00:00:00.0000000,2017-11-23 00:00:00.0000000,34.7,Oda + Kahvaltı,Girne,Thursday,6,Low,Last Minuters,Last Minuters,3
+140115,2017-11-10 00:00:00.0000000,2017-11-22 00:00:00.0000000,31.23,Yarım Pansiyon,Girne,Wednesday,12,Low,Potential Planners,Potential Planners,3
+140021,2017-11-08 00:00:00.0000000,2017-12-08 00:00:00.0000000,59.36,Yarım Pansiyon,Girne,Friday,30,Low,Planners,Planners,3
+140015,2017-11-08 00:00:00.0000000,2017-12-08 00:00:00.0000000,66.44,Yarım Pansiyon,Girne,Friday,30,Low,Planners,Planners,3
+140007,2017-11-08 00:00:00.0000000,2017-11-12 00:00:00.0000000,89.04,Herşey Dahil,Girne,Sunday,4,Low,Last Minuters,Last Minuters,3
+139883,2017-11-06 00:00:00.0000000,2017-12-08 00:00:00.0000000,59.36,Yarım Pansiyon,Girne,Friday,32,Low,Planners,Planners,3
+139862,2017-11-06 00:00:00.0000000,2017-12-08 00:00:00.0000000,66.44,Yarım Pansiyon,Girne,Friday,32,Low,Planners,Planners,3
+139731,2017-11-03 00:00:00.0000000,2017-11-14 00:00:00.0000000,49.32,Yarım Pansiyon,Girne,Tuesday,11,Low,Potential Planners,Potential Planners,3
+139722,2017-11-03 00:00:00.0000000,2017-11-14 00:00:00.0000000,30.14,Yarım Pansiyon,Girne,Tuesday,11,Low,Potential Planners,Potential Planners,3
+139452,2017-11-01 00:00:00.0000000,2017-11-06 00:00:00.0000000,42.36,Yarım Pansiyon,Girne,Monday,5,Low,Last Minuters,Last Minuters,3
+139444,2017-11-01 00:00:00.0000000,2017-11-03 00:00:00.0000000,23.74,Yarım Pansiyon,Girne,Friday,2,Low,Last Minuters,Last Minuters,3
+138982,2017-10-23 00:00:00.0000000,2017-11-20 00:00:00.0000000,34.73,Oda + Kahvaltı,Girne,Monday,28,Low,Potential Planners,Potential Planners,3
+138982,2017-10-23 00:00:00.0000000,2017-11-20 00:00:00.0000000,34.73,Oda + Kahvaltı,Girne,Monday,28,Low,Potential Planners,Potential Planners,3
+138491,2017-10-13 00:00:00.0000000,2017-10-17 00:00:00.0000000,49.32,Oda + Kahvaltı,Girne,Tuesday,4,Low,Last Minuters,Last Minuters,3
+137864,2017-10-06 00:00:00.0000000,2017-10-08 00:00:00.0000000,36.53,Oda + Kahvaltı,Girne,Sunday,2,Low,Last Minuters,Last Minuters,3
+137698,2017-10-04 00:00:00.0000000,2017-10-18 00:00:00.0000000,53.61,Yarım Pansiyon,Girne,Wednesday,14,Low,Potential Planners,Potential Planners,3
+137698,2017-10-04 00:00:00.0000000,2017-10-18 00:00:00.0000000,58.63,Yarım Pansiyon,Girne,Wednesday,14,Low,Potential Planners,Potential Planners,3
+137203,2017-09-28 00:00:00.0000000,2017-09-29 00:00:00.0000000,36.53,Oda + Kahvaltı,Girne,Friday,1,High,Last Minuters,Last Minuters,3
+135692,2017-09-15 00:00:00.0000000,2017-10-11 00:00:00.0000000,133.56,Herşey Dahil,Girne,Wednesday,26,Low,Potential Planners,Potential Planners,3
+134806,2017-09-08 00:00:00.0000000,2017-11-02 00:00:00.0000000,34.7,Yarım Pansiyon,Girne,Thursday,55,Low,Planners,Planners,3
+134282,2017-09-05 00:00:00.0000000,2017-09-22 00:00:00.0000000,24.84,Oda + Kahvaltı,Girne,Friday,17,High,Potential Planners,Potential Planners,3
+133960,2017-09-03 00:00:00.0000000,2017-11-13 00:00:00.0000000,95.89,Herşey Dahil,Girne,Monday,71,Low,Planners,Planners,3
+133836,2017-09-01 00:00:00.0000000,2017-09-02 00:00:00.0000000,57.53,Yarım Pansiyon,Girne,Saturday,1,High,Last Minuters,Last Minuters,3
+57985,2016-03-17 00:00:00.0000000,2016-06-18 00:00:00.0000000,29.8,Yarım Pansiyon,Girne,Saturday,93,High,Early Bookers,Early Bookers,3
+57985,2016-03-17 00:00:00.0000000,2016-06-18 00:00:00.0000000,29.8,Yarım Pansiyon,Girne,Saturday,93,High,Early Bookers,Early Bookers,3
+57985,2016-03-17 00:00:00.0000000,2016-06-21 00:00:00.0000000,23.8,Yarım Pansiyon,Girne,Tuesday,96,High,Early Bookers,Early Bookers,3
+57985,2016-03-17 00:00:00.0000000,2016-06-21 00:00:00.0000000,23.8,Yarım Pansiyon,Girne,Tuesday,96,High,Early Bookers,Early Bookers,3
+133542,2017-08-29 00:00:00.0000000,2017-09-02 00:00:00.0000000,32.88,Oda + Kahvaltı,Girne,Saturday,4,High,Last Minuters,Last Minuters,3
+132303,2017-08-24 00:00:00.0000000,2017-08-26 00:00:00.0000000,49.32,Oda + Kahvaltı,Girne,Saturday,2,High,Last Minuters,Last Minuters,3
+95589,2017-01-07 00:00:00.0000000,2017-02-02 00:00:00.0000000,21.92,Yarım Pansiyon,Girne,Thursday,26,Low,Potential Planners,Potential Planners,3
+132092,2017-08-25 00:00:00.0000000,2017-08-27 00:00:00.0000000,55.06,Oda + Kahvaltı,Girne,Sunday,2,High,Last Minuters,Last Minuters,3
+131892,2017-08-22 00:00:00.0000000,2017-10-27 00:00:00.0000000,32.88,Oda + Kahvaltı,Girne,Friday,66,Low,Planners,Planners,3
+96512,2017-01-19 00:00:00.0000000,2017-02-28 00:00:00.0000000,32.88,Oda + Kahvaltı,Girne,Tuesday,40,Low,Planners,Planners,3
+56644,2016-03-01 00:00:00.0000000,2016-05-27 00:00:00.0000000,31.87,Oda + Kahvaltı,Girne,Friday,87,High,Planners,Planners,3
+130848,2017-08-17 00:00:00.0000000,2017-08-19 00:00:00.0000000,27.4,Oda + Kahvaltı,Girne,Saturday,2,High,Last Minuters,Last Minuters,3
+129866,2017-08-14 00:00:00.0000000,2017-08-29 00:00:00.0000000,251.14,Herşey Dahil,Girne,Tuesday,15,High,Potential Planners,Potential Planners,3
+129791,2017-08-13 00:00:00.0000000,2017-08-14 00:00:00.0000000,93.15,Yarım Pansiyon,Girne,Monday,1,High,Last Minuters,Last Minuters,3
+114270,2017-06-07 00:00:00.0000000,2017-06-15 00:00:00.0000000,70.89,Yarım Pansiyon,Girne,Thursday,8,High,Potential Planners,Potential Planners,3
+129128,2017-08-10 00:00:00.0000000,2017-08-11 00:00:00.0000000,32.88,Oda + Kahvaltı,Girne,Friday,1,High,Last Minuters,Last Minuters,3
+129038,2017-08-16 00:00:00.0000000,2017-09-06 00:00:00.0000000,39.18,Yarım Pansiyon,Girne,Wednesday,21,High,Potential Planners,Potential Planners,3
+128484,2017-08-23 00:00:00.0000000,2017-08-14 00:00:00.0000000,64.05,Yarım Pansiyon,Girne,Monday,0,High,Last Minuters,Last Minuters,3
+127868,2017-08-05 00:00:00.0000000,2017-08-21 00:00:00.0000000,61.06,Yarım Pansiyon,Girne,Monday,16,High,Potential Planners,Potential Planners,3
+127608,2017-08-04 00:00:00.0000000,2017-08-10 00:00:00.0000000,21.92,Yarım Pansiyon,Girne,Thursday,6,High,Last Minuters,Last Minuters,3
+127071,2017-08-01 00:00:00.0000000,2017-08-06 00:00:00.0000000,58.9,Yarım Pansiyon,Girne,Sunday,5,High,Last Minuters,Last Minuters,3
+126804,2017-08-01 00:00:00.0000000,2017-08-12 00:00:00.0000000,27.4,Oda + Kahvaltı,Girne,Saturday,11,High,Potential Planners,Potential Planners,3
+126648,2017-07-31 00:00:00.0000000,2017-08-01 00:00:00.0000000,32.88,Yarım Pansiyon,Girne,Tuesday,1,High,Last Minuters,Last Minuters,3
+126011,2017-07-28 00:00:00.0000000,2017-08-22 00:00:00.0000000,49.32,Yarım Pansiyon,Girne,Tuesday,25,High,Potential Planners,Potential Planners,3
+125363,2017-07-25 00:00:00.0000000,2017-07-27 00:00:00.0000000,28.58,Yarım Pansiyon,Girne,Thursday,2,High,Last Minuters,Last Minuters,3
+125317,2017-07-25 00:00:00.0000000,2017-08-01 00:00:00.0000000,60.0,Yarım Pansiyon,Girne,Tuesday,7,High,Potential Planners,Potential Planners,3
+125268,2017-07-25 00:00:00.0000000,2017-10-09 00:00:00.0000000,101.37,Herşey Dahil,Girne,Monday,76,Low,Planners,Planners,3
+122868,2017-07-15 00:00:00.0000000,2017-07-19 00:00:00.0000000,27.4,Oda + Kahvaltı,Girne,Wednesday,4,High,Last Minuters,Last Minuters,3
+122129,2017-07-12 00:00:00.0000000,2017-07-13 00:00:00.0000000,41.1,Oda + Kahvaltı,Girne,Thursday,1,High,Last Minuters,Last Minuters,3
+121058,2017-07-07 00:00:00.0000000,2017-07-29 00:00:00.0000000,32.88,Yarım Pansiyon,Girne,Saturday,22,High,Potential Planners,Potential Planners,3
+120994,2017-07-07 00:00:00.0000000,2017-07-17 00:00:00.0000000,115.07,Herşey Dahil,Girne,Monday,10,High,Potential Planners,Potential Planners,3
+120785,2017-07-06 00:00:00.0000000,2017-07-10 00:00:00.0000000,52.05,Yarım Pansiyon,Girne,Monday,4,High,Last Minuters,Last Minuters,3
+120269,2017-07-04 00:00:00.0000000,2017-07-19 00:00:00.0000000,25.63,Oda + Kahvaltı,Girne,Wednesday,15,High,Potential Planners,Potential Planners,3
+119784,2017-07-02 00:00:00.0000000,2017-08-12 00:00:00.0000000,40.18,Oda + Kahvaltı,Girne,Saturday,41,High,Planners,Planners,3
+118498,2017-06-24 00:00:00.0000000,2017-06-25 00:00:00.0000000,32.88,Yarım Pansiyon,Girne,Sunday,1,High,Last Minuters,Last Minuters,3
+118069,2017-06-23 00:00:00.0000000,2017-06-28 00:00:00.0000000,39.73,Yarım Pansiyon,Girne,Wednesday,5,High,Last Minuters,Last Minuters,3
+53509,2016-01-25 00:00:00.0000000,2016-07-17 00:00:00.0000000,119.21,Herşey Dahil,Girne,Sunday,174,High,Early Bookers,Early Bookers,3
+81030,2016-08-12 00:00:00.0000000,2016-08-26 00:00:00.0000000,43.05,Yarım Pansiyon,Girne,Friday,14,High,Potential Planners,Potential Planners,3
+81030,2016-08-12 00:00:00.0000000,2016-08-26 00:00:00.0000000,32.28,Yarım Pansiyon,Girne,Friday,14,High,Potential Planners,Potential Planners,3
+117555,2017-06-21 00:00:00.0000000,2017-07-08 00:00:00.0000000,40.18,Oda + Kahvaltı,Girne,Saturday,17,High,Potential Planners,Potential Planners,3
+116917,2017-06-19 00:00:00.0000000,2017-07-03 00:00:00.0000000,47.12,Yarım Pansiyon,Girne,Monday,14,High,Potential Planners,Potential Planners,3
+116685,2017-06-16 00:00:00.0000000,2017-06-22 00:00:00.0000000,41.1,Oda + Kahvaltı,Girne,Thursday,6,High,Last Minuters,Last Minuters,3
+109883,2017-05-10 00:00:00.0000000,2017-05-10 00:00:00.0000000,45.21,Yarım Pansiyon,Girne,Wednesday,0,High,Last Minuters,Last Minuters,3
+108762,2017-05-03 00:00:00.0000000,2017-05-07 00:00:00.0000000,52.05,Yarım Pansiyon,Girne,Sunday,4,High,Last Minuters,Last Minuters,3
+108641,2017-05-02 00:00:00.0000000,2017-07-25 00:00:00.0000000,117.42,Herşey Dahil,Girne,Tuesday,84,High,Planners,Planners,3
+54979,2016-02-11 00:00:00.0000000,2016-05-13 00:00:00.0000000,35.48,Yarım Pansiyon,Girne,Friday,92,High,Early Bookers,Early Bookers,3
+106506,2017-04-15 00:00:00.0000000,2017-06-05 00:00:00.0000000,64.93,Yarım Pansiyon,Girne,Monday,51,High,Planners,Planners,3
+106370,2017-04-14 00:00:00.0000000,2017-05-22 00:00:00.0000000,42.47,Yarım Pansiyon,Girne,Monday,38,High,Planners,Planners,3
+100544,2017-02-27 00:00:00.0000000,2017-05-14 00:00:00.0000000,112.33,Herşey Dahil,Girne,Sunday,76,High,Planners,Planners,3
+106146,2017-04-13 00:00:00.0000000,2017-05-20 00:00:00.0000000,39.57,Yarım Pansiyon,Girne,Saturday,37,High,Planners,Planners,3
+105547,2017-04-07 00:00:00.0000000,2017-06-14 00:00:00.0000000,29.41,Yarım Pansiyon,Girne,Wednesday,68,High,Planners,Planners,3
+104234,2017-03-28 00:00:00.0000000,2017-06-05 00:00:00.0000000,64.93,Yarım Pansiyon,Girne,Monday,69,High,Planners,Planners,3
+102746,2017-03-16 00:00:00.0000000,2017-06-07 00:00:00.0000000,43.84,Yarım Pansiyon,Girne,Wednesday,83,High,Planners,Planners,3
+102702,2017-03-16 00:00:00.0000000,2017-03-31 00:00:00.0000000,68.49,Yarım Pansiyon,Girne,Friday,15,Low,Potential Planners,Potential Planners,3
+102581,2017-03-15 00:00:00.0000000,2017-05-01 00:00:00.0000000,32.88,Yarım Pansiyon,Girne,Monday,47,High,Planners,Planners,3
+102581,2017-03-15 00:00:00.0000000,2017-05-01 00:00:00.0000000,32.88,Yarım Pansiyon,Girne,Monday,47,High,Planners,Planners,3
+102231,2017-03-11 00:00:00.0000000,2017-03-11 00:00:00.0000000,36.16,Oda + Kahvaltı,Girne,Saturday,0,Low,Last Minuters,Last Minuters,3
+90869,2016-10-08 00:00:00.0000000,2016-11-12 00:00:00.0000000,24.28,Yarım Pansiyon,Girne,Saturday,35,Low,Planners,Planners,3
+90869,2016-10-08 00:00:00.0000000,2016-11-12 00:00:00.0000000,26.49,Yarım Pansiyon,Girne,Saturday,35,Low,Planners,Planners,3
+101973,2017-03-09 00:00:00.0000000,2017-04-03 00:00:00.0000000,82.19,Herşey Dahil,Girne,Monday,25,Low,Potential Planners,Potential Planners,3
+101953,2017-03-09 00:00:00.0000000,2017-04-03 00:00:00.0000000,82.19,Herşey Dahil,Girne,Monday,25,Low,Potential Planners,Potential Planners,3
+53523,2016-01-26 00:00:00.0000000,2016-07-17 00:00:00.0000000,119.21,Herşey Dahil,Girne,Sunday,173,High,Early Bookers,Early Bookers,3
+95654,2017-01-09 00:00:00.0000000,2017-04-06 00:00:00.0000000,49.32,Yarım Pansiyon,Girne,Thursday,87,Low,Planners,Planners,3
+92865,2016-11-15 00:00:00.0000000,2016-12-02 00:00:00.0000000,62.91,Yarım Pansiyon,Girne,Friday,17,Low,Potential Planners,Potential Planners,3
+92560,2016-11-09 00:00:00.0000000,2016-12-02 00:00:00.0000000,69.54,Yarım Pansiyon,Girne,Friday,23,Low,Potential Planners,Potential Planners,3
+56261,2016-02-26 00:00:00.0000000,2016-03-19 00:00:00.0000000,69.54,Yarım Pansiyon,Girne,Saturday,22,Low,Potential Planners,Potential Planners,3
+92152,2016-10-28 00:00:00.0000000,2016-12-02 00:00:00.0000000,69.54,Yarım Pansiyon,Girne,Friday,35,Low,Planners,Planners,3
+92147,2016-10-28 00:00:00.0000000,2016-12-02 00:00:00.0000000,62.91,Yarım Pansiyon,Girne,Friday,35,Low,Planners,Planners,3
+92136,2016-10-28 00:00:00.0000000,2016-12-02 00:00:00.0000000,62.91,Yarım Pansiyon,Girne,Friday,35,Low,Planners,Planners,3
+91187,2016-10-14 00:00:00.0000000,2016-11-01 00:00:00.0000000,74.5,Herşey Dahil,Girne,Tuesday,18,Low,Potential Planners,Potential Planners,3
+91187,2016-10-14 00:00:00.0000000,2016-11-01 00:00:00.0000000,82.78,Herşey Dahil,Girne,Tuesday,18,Low,Potential Planners,Potential Planners,3
+53522,2016-01-26 00:00:00.0000000,2016-07-17 00:00:00.0000000,119.21,Herşey Dahil,Girne,Sunday,173,High,Early Bookers,Early Bookers,3
+90101,2016-09-27 00:00:00.0000000,2016-12-02 00:00:00.0000000,62.58,Yarım Pansiyon,Girne,Friday,66,Low,Planners,Planners,3
+77233,2016-07-26 00:00:00.0000000,2016-07-26 00:00:00.0000000,23.45,Oda + Kahvaltı,Girne,Tuesday,0,High,Last Minuters,Last Minuters,3
+87426,2016-09-19 00:00:00.0000000,2016-10-15 00:00:00.0000000,64.57,Oda + Kahvaltı,Girne,Saturday,26,Low,Potential Planners,Potential Planners,3
+87403,2016-09-18 00:00:00.0000000,2016-09-20 00:00:00.0000000,114.95,Yarım Pansiyon,Girne,Tuesday,2,High,Last Minuters,Last Minuters,3
+87403,2016-09-18 00:00:00.0000000,2016-09-20 00:00:00.0000000,70.25,Yarım Pansiyon,Girne,Tuesday,2,High,Last Minuters,Last Minuters,3
+87403,2016-09-18 00:00:00.0000000,2016-09-20 00:00:00.0000000,76.63,Yarım Pansiyon,Girne,Tuesday,2,High,Last Minuters,Last Minuters,3
+84962,2016-08-30 00:00:00.0000000,2016-09-11 00:00:00.0000000,89.4,Yarım Pansiyon,Girne,Sunday,12,High,Potential Planners,Potential Planners,3
+83390,2016-08-22 00:00:00.0000000,2016-08-27 00:00:00.0000000,111.51,Yarım Pansiyon,Girne,Saturday,5,High,Last Minuters,Last Minuters,3
+83314,2016-08-22 00:00:00.0000000,2016-09-02 00:00:00.0000000,54.64,Yarım Pansiyon,Girne,Friday,11,High,Potential Planners,Potential Planners,3
+83267,2016-08-22 00:00:00.0000000,2016-09-02 00:00:00.0000000,54.64,Yarım Pansiyon,Girne,Friday,11,High,Potential Planners,Potential Planners,3
+81028,2016-08-12 00:00:00.0000000,2016-09-08 00:00:00.0000000,73.94,Yarım Pansiyon,Girne,Thursday,27,High,Potential Planners,Potential Planners,3
+75584,2016-07-15 00:00:00.0000000,2016-08-08 00:00:00.0000000,76.63,Yarım Pansiyon,Girne,Monday,24,High,Potential Planners,Potential Planners,3
+71077,2016-06-25 00:00:00.0000000,2016-07-04 00:00:00.0000000,57.95,Yarım Pansiyon,Girne,Monday,9,High,Potential Planners,Potential Planners,3
+70284,2016-06-22 00:00:00.0000000,2016-08-02 00:00:00.0000000,49.67,Herşey Dahil,Girne,Tuesday,41,High,Planners,Planners,3
+68888,2016-06-15 00:00:00.0000000,2016-07-15 00:00:00.0000000,77.48,Yarım Pansiyon,Girne,Friday,30,High,Planners,Planners,3
+61286,2016-04-25 00:00:00.0000000,2016-06-03 00:00:00.0000000,198.68,Herşey Dahil,Girne,Friday,39,High,Planners,Planners,3
+61286,2016-04-25 00:00:00.0000000,2016-06-03 00:00:00.0000000,198.68,Herşey Dahil,Girne,Friday,39,High,Planners,Planners,3
+61286,2016-04-25 00:00:00.0000000,2016-06-03 00:00:00.0000000,182.12,Herşey Dahil,Girne,Friday,39,High,Planners,Planners,3
+61286,2016-04-25 00:00:00.0000000,2016-06-03 00:00:00.0000000,182.12,Herşey Dahil,Girne,Friday,39,High,Planners,Planners,3
+63274,2016-05-09 00:00:00.0000000,2016-05-10 00:00:00.0000000,79.47,Yarım Pansiyon,Girne,Tuesday,1,High,Last Minuters,Last Minuters,3
+61579,2016-04-23 00:00:00.0000000,2016-06-08 00:00:00.0000000,25.17,Yarım Pansiyon,Girne,Wednesday,46,High,Planners,Planners,3
+61579,2016-04-23 00:00:00.0000000,2016-06-08 00:00:00.0000000,34.0,Yarım Pansiyon,Girne,Wednesday,46,High,Planners,Planners,3
+59823,2016-04-05 00:00:00.0000000,2016-04-10 00:00:00.0000000,33.77,Oda + Kahvaltı,Girne,Sunday,5,Low,Last Minuters,Last Minuters,3
+59699,2016-04-04 00:00:00.0000000,2016-05-15 00:00:00.0000000,37.75,Yarım Pansiyon,Girne,Sunday,41,High,Planners,Planners,3
+58319,2016-03-21 00:00:00.0000000,2016-04-01 00:00:00.0000000,79.47,Yarım Pansiyon,Girne,Friday,11,Low,Potential Planners,Potential Planners,3
+57690,2016-03-12 00:00:00.0000000,2016-03-13 00:00:00.0000000,27.81,Oda + Kahvaltı,Girne,Sunday,1,Low,Last Minuters,Last Minuters,3
+56809,2016-03-03 00:00:00.0000000,2016-03-24 00:00:00.0000000,161.15,Herşey Dahil,Girne,Thursday,21,Low,Potential Planners,Potential Planners,3
+56539,2016-02-29 00:00:00.0000000,2016-05-22 00:00:00.0000000,120.86,Herşey Dahil,Girne,Sunday,83,High,Planners,Planners,3
+55826,2016-02-22 00:00:00.0000000,2016-03-27 00:00:00.0000000,19.87,Yarım Pansiyon,Girne,Sunday,34,Low,Planners,Planners,3
+55384,2016-02-17 00:00:00.0000000,2016-03-12 00:00:00.0000000,46.03,Oda + Kahvaltı,Girne,Saturday,24,Low,Potential Planners,Potential Planners,3
+55258,2016-02-15 00:00:00.0000000,2016-02-20 00:00:00.0000000,39.74,Yarım Pansiyon,Girne,Saturday,5,Low,Last Minuters,Last Minuters,3
+55119,2016-02-13 00:00:00.0000000,2016-03-28 00:00:00.0000000,33.11,Yarım Pansiyon,Girne,Monday,44,Low,Planners,Planners,3
+55050,2016-02-12 00:00:00.0000000,2016-03-25 00:00:00.0000000,46.03,Oda + Kahvaltı,Girne,Friday,42,Low,Planners,Planners,3
+54745,2016-02-09 00:00:00.0000000,2016-02-12 00:00:00.0000000,47.35,Oda + Kahvaltı,Girne,Friday,3,Low,Last Minuters,Last Minuters,3
+54212,2016-02-01 00:00:00.0000000,2016-03-05 00:00:00.0000000,67.05,Yarım Pansiyon,Girne,Saturday,33,Low,Planners,Planners,3
+53854,2016-01-29 00:00:00.0000000,2016-02-02 00:00:00.0000000,23.18,Yarım Pansiyon,Girne,Tuesday,4,Low,Last Minuters,Last Minuters,3
+53854,2016-01-29 00:00:00.0000000,2016-02-02 00:00:00.0000000,19.32,Yarım Pansiyon,Girne,Tuesday,4,Low,Last Minuters,Last Minuters,3
+53854,2016-01-29 00:00:00.0000000,2016-02-02 00:00:00.0000000,17.38,Yarım Pansiyon,Girne,Tuesday,4,Low,Last Minuters,Last Minuters,3
+53768,2016-01-28 00:00:00.0000000,2016-03-07 00:00:00.0000000,31.87,Oda + Kahvaltı,Girne,Monday,39,Low,Planners,Planners,3
+53345,2016-01-23 00:00:00.0000000,2016-02-25 00:00:00.0000000,31.46,Oda + Kahvaltı,Girne,Thursday,33,Low,Planners,Planners,3
+53008,2016-01-20 00:00:00.0000000,2016-02-05 00:00:00.0000000,79.47,Yarım Pansiyon,Girne,Friday,16,Low,Potential Planners,Potential Planners,3
+52420,2016-01-12 00:00:00.0000000,2016-01-15 00:00:00.0000000,111.75,Yarım Pansiyon,Girne,Friday,3,Low,Last Minuters,Last Minuters,3
+52417,2016-01-12 00:00:00.0000000,2016-01-15 00:00:00.0000000,111.75,Yarım Pansiyon,Girne,Friday,3,Low,Last Minuters,Last Minuters,3
+52262,2016-01-09 00:00:00.0000000,2016-08-07 00:00:00.0000000,183.77,Herşey Dahil,Girne,Sunday,211,High,Early Bookers,Early Bookers,3
+52052,2016-01-08 00:00:00.0000000,2016-02-05 00:00:00.0000000,69.54,Yarım Pansiyon,Girne,Friday,28,Low,Potential Planners,Potential Planners,3
+51906,2016-01-06 00:00:00.0000000,2016-01-06 00:00:00.0000000,36.42,Yarım Pansiyon,Girne,Wednesday,0,Low,Last Minuters,Last Minuters,3
+51718,2016-01-03 00:00:00.0000000,2016-01-03 00:00:00.0000000,36.42,Yarım Pansiyon,Girne,Sunday,0,Low,Last Minuters,Last Minuters,3
+51881,2016-01-05 00:00:00.0000000,2016-01-06 00:00:00.0000000,100.3,Herşey Dahil,Girne,Wednesday,1,Low,Last Minuters,Last Minuters,3
+51850,2016-01-05 00:00:00.0000000,2016-08-28 00:00:00.0000000,120.62,Herşey Dahil,Girne,Sunday,236,High,Early Bookers,Early Bookers,3
+51835,2016-01-05 00:00:00.0000000,2016-08-28 00:00:00.0000000,120.62,Herşey Dahil,Girne,Sunday,236,High,Early Bookers,Early Bookers,3
